@@ -36,7 +36,7 @@
     <easymock.version>4.0.2</easymock.version>
     <google.auth.oauth2.http.version>1.23.0</google.auth.oauth2.http.version>
     <guava.retrying.version>2.0.0</guava.retrying.version>
-    <guava.version>33.0.0-jre</guava.version>
+    <guava.version>33.7.1-jre</guava.version>
     <hadoop.version>3.3.6</hadoop.version>
     <junit.version>4.11</junit.version>
     <powermock.version>1.6.5</powermock.version>
@@ -47,7 +47,7 @@
     <build-helper-maven.version>3.3.0</build-helper-maven.version>
     <failsafe.version>3.0.0-M5</failsafe.version>
     <cucumber-reporting.version>5.5.0</cucumber-reporting.version>
-    <guava-e2e.version>31.0.1-jre</guava-e2e.version>
+    <guava-e2e.version>33.7.1-jre</guava-e2e.version>
     <e2e-framework.version>0.5.0-SNAPSHOT</e2e-framework.version>
     <central-publishing-maven.version>0.8.0</central-publishing-maven.version>
     <maven-source.version>2.2.1</maven-source.version>
